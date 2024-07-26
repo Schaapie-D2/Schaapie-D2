@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Schaapie-D2
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C# and programming in general.
+- 🌱 I’m currently learning C#.
 - 🏢 I'm trying to start a software company.
 
 <!---
