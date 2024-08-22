@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Schaapie-D2
-- 🌍 I live in the Netherlands.
 - 👀 I’m interested in C# and programming in general.
 - 🌱 I’m currently learning C#.
 - 🏢 I'm trying to start a software company.
