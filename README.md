@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Schaapie-D2
+- 🌐 The programming languages that i use/know are: C#, CSS, HTML and JS.
 - 👀 I’m interested in C# and programming in general.
 - 🌱 I’m currently learning C#.
 ### What I'm working on
