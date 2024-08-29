@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Schaapie-D2
 - 👀 I’m interested in C# and programming in general.
 - 🌱 I’m currently learning C#.
-### The programming languages that i use/know are: 
+### The programming languages that i use/know: 
 - C#
 - CSS
 - HTML
 - JS
-### What I'm working on
+### What I'm working on:
 - An operating system, HontelOS (made with Cosmos)
 - An operating system, PS1-OS (a remake of the Sony PlayStation 1 made with Cosmos)
 
