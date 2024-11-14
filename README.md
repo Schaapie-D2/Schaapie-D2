@@ -8,7 +8,6 @@
 - JS
 ### What I'm working on:
 - An operating system, HontelOS (made with Cosmos)
-- An operating system, PS1-OS (a remake of the Sony PlayStation 1 made with Cosmos)
 
 <!---
 Schaapie-D2/Schaapie-D2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
