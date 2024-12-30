@@ -6,6 +6,7 @@
 - CSS
 - HTML
 - JS
+- XAML
 ### What I'm working on:
 - An operating system, HontelOS (made with Cosmos)
 
