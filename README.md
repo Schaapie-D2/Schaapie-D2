@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Schaapie-D2
-- 👀 I’m interested in C# and programming in general.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in C# and Operating Systems.
 ### The programming languages that i use/know: 
 - C#
 - CSS
@@ -8,7 +7,7 @@
 - JS
 - XAML
 ### What I'm working on:
-- An operating system, HontelOS (made with Cosmos)
+- HontelOS, an operating system made with Cosmos
 
 <!---
 Schaapie-D2/Schaapie-D2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
