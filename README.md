@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Schaapie-D2
 - 👀 I’m interested in C# and Operating Systems.
+- 🔥 More about my projects <a href="https://schaapie-d2.rf.gd">here</a>!
 ### The programming languages that i use/know: 
 - C#
 - CSS
