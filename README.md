@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Schaapie-D2
-- 👀 I’m interested in C# and Operating Systems.
+- 👋 Hi, I’m Jort van Dalen
 - 🔥 More about my projects <a href="https://schaapie-d2.rf.gd">here</a>!
 ### The programming languages that i use/know: 
 - C#
@@ -8,7 +7,8 @@
 - JS
 - XAML
 ### What I'm working on:
-- HontelOS, an operating system made with Cosmos
+- HontelOS: an operating system made with Cosmos
+- Blocker Zero: a tool for creating JavaScript scripts for the Flipper Zero using a Blockly-based visual editor.
 
 <!---
 Schaapie-D2/Schaapie-D2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
