@@ -17,7 +17,7 @@
 - **Unity**
 - **.NET MAUI**
 
-Currently want learning: **C++**
+Currently want to learn: **C++**
 
 ---
 
