@@ -1,27 +1,28 @@
 # 👋 Hi, I’m Jort van Dalen
 
-🚀 Programming and building tools.  
-🌐 Check out more of my projects [here](https://schaapie-d2.rf.gd)!
+I'm a self-taught developer that builds apps, websites, web apps and real-time graphics applications.
+I enjoy experimenting and creating random projects whenever something interesting comes to mind.
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Schaapie-D2&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schaapie-D2&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
-</p>
+🌐 Check out my projects [here](https://schaapie-d2.rf.gd)!
 
 ---
 
 ## Languages & Technologies
-- **C#**
-- **HTML, CSS, JS**
+- **C#** / **.NET**
+- **HTML**, **CSS**, **JavaScript**
 - **XAML**
 - **Unity**
 - **.NET MAUI**
 
-Currently want to learn: **C++**
+Currently want to learn: **C++** or **Rust**
 
 ---
 
 ## Projects I’m Working On
-- <a href="https://schaapie-d2.rf.gd/projects/choose-your-dream">**Choose Your Dream**</a> – a yoga-nidra meditation app.
+- <a href="https://omroepodrie.nl/">**Odrie**</a> – a radio app for Omroep Odrie.
+- <a href="https://play.google.com/store/apps/details?id=com.afbouwapotheker.chooseyourdream">**Choose Your Dream**</a> – a yoga-nidra meditation app.
+
+## Other projects
 - <a href="https://blockerzero.rf.gd">**Blocker Zero**</a> – a Blockly-based visual editor for creating JavaScript scripts for the Flipper Zero.
 - <a href="https://github.com/Schaapie-D2/HontelOS">**HontelOS**</a> – a custom operating system built with [Cosmos](https://github.com/CosmosOS/Cosmos).
+- <a href="https://github.com/Schaapie-D2/PingLine">**PingLine**</a> - a simple TUI-based notification manager. Good for people that like ricing their Linux.
