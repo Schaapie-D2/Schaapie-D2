@@ -24,5 +24,5 @@ Currently want to learn: **C++** or **Rust**
 
 ## Other projects
 - <a href="https://blockerzero.rf.gd">**Blocker Zero**</a> – a Blockly-based visual editor for creating JavaScript scripts for the Flipper Zero.
-- <a href="https://github.com/Schaapie-D2/HontelOS">**HontelOS**</a> – a custom operating system built with [Cosmos](https://github.com/CosmosOS/Cosmos).
-- <a href="https://github.com/Schaapie-D2/PingLine">**PingLine**</a> - a simple TUI-based notification manager. Good for people that like ricing their Linux.
+- <a href="https://github.com/Schaapie-D/HontelOS">**HontelOS**</a> – a custom operating system built with [Cosmos](https://github.com/CosmosOS/Cosmos).
+- <a href="https://github.com/Schaapie-D/PingLine">**PingLine**</a> - a simple TUI-based notification manager. Good for people that like ricing their Linux.
